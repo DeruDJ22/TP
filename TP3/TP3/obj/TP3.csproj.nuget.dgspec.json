@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\telkom\\coding\\C#\\TP3\\TP3\\TP3.csproj": {}
+    "D:\\telkom\\coding\\C#\\TP\\TP3\\TP3\\TP3.csproj": {}
   },
   "projects": {
-    "D:\\telkom\\coding\\C#\\TP3\\TP3\\TP3.csproj": {
+    "D:\\telkom\\coding\\C#\\TP\\TP3\\TP3\\TP3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\telkom\\coding\\C#\\TP3\\TP3\\TP3.csproj",
+        "projectUniqueName": "D:\\telkom\\coding\\C#\\TP\\TP3\\TP3\\TP3.csproj",
         "projectName": "TP3",
-        "projectPath": "D:\\telkom\\coding\\C#\\TP3\\TP3\\TP3.csproj",
+        "projectPath": "D:\\telkom\\coding\\C#\\TP\\TP3\\TP3\\TP3.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\telkom\\coding\\C#\\TP3\\TP3\\obj\\",
+        "outputPath": "D:\\telkom\\coding\\C#\\TP\\TP3\\TP3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

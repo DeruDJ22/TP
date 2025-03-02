@@ -19,7 +19,7 @@ namespace TP3
 
         private void button2_Click(object sender, EventArgs e)
         {
-            String name = textBox2.Text;
+            String name = textBox2.Text; //Membuat variable name dengan tipe data String 
             label2.Text = "Halo " + name;
         }
     }
